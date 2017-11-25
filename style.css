@@ -17,7 +17,7 @@ body{
 	padding: 2px 5px 0px 5px;
 }
 
-#logoCenter{
+.logoCenter{
 	margin: auto;  
 	position: absolute;
 	left:0;
