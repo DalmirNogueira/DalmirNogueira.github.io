@@ -20,6 +20,7 @@ body{
 .logoCenter{
 	display: block;
 	margin: auto;
+	max-height: 500px;
 }
 
 #bottomCenter{
